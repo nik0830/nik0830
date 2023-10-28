@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on E-commerce Application Using MERN STACK<br>🌱 I’m currently learning React Native<br>💬 Ask me about MERN Stack, Software Engineering<br>📫 How to reach me : nikhilkumar301012@gmail.com, btech15038.20@bitmesra.ac.in<br>👨‍💻 All of my projects are available at  https://nik0830.github.io/My-Personal-Portfolio/<br>⚡ Fun fact - I am lazy but smart
+🔭 I’m currently working on E-commerce Application Using MERN STACK<br>🌱 I’m currently learning React Native<br>💬 Ask me about MERN Stack, Software Engineering<br>📫 How to reach me : nikhilkumar301012@gmail.com, btech15038.20@bitmesra.ac.in<br>👨‍💻 All of my projects are available at   https://nik0830.github.io/My-Personal-Portfolio/<br>⚡ Fun fact - I am lazy but smart
 
 
 ## 🌐 Socials:
